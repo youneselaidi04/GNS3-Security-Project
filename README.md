@@ -30,7 +30,11 @@ his network.
 3-Key Takeaways and Learnings:
 
 -Learn how to configure networks, firewalls, servers and systems
+
 -How to administrate Windows and Linux clients and servers
+
 -Harden devices and networks
+
 -Various penetration testing tools and techniques
+
 -Monitor and defend against attacks
