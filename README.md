@@ -1,7 +1,7 @@
 # GNS3-Security-Project
 the Cyber Security Virtual Lab Building
 
-1-Why are we building this lab?
+**1-Why are we building this lab?**
 
 -To get hands-on networking skills
 -To get hands-on system administration skills
@@ -11,7 +11,7 @@ the Cyber Security Virtual Lab Building
 -System/Device Hardening
 -Safe and controlled environment
 
-2-The Scenario:
+**2-The Scenario:**
 
 -Contracted to jonas company to overhaul their IT
 infrastructure and systems.
@@ -27,7 +27,7 @@ and user management,so he has better control of his resources.
 -He is also concerned about cyber security and has read a lot about Ransomware,and wants us to harden, monitor and defend
 his network.
 
-3-Key Takeaways and Learnings:
+**3-Key Takeaways and Learnings:**
 
 -Learn how to configure networks, firewalls, servers and systems
 
